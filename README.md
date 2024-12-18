@@ -17,7 +17,7 @@ Email: prestonnikfard@gmail.com
 
 ### Custom C++ Engine
  * **Description:** Custom C++ engine with various included tools; using OpenGL for graphics, rapidJSON for serialization
- * *Made using C++, OpenGL, rapidJSON and IMGUI*
+ * *Made using C++, OpenGL, rapidJSON, FMOD and IMGUI*
  * *More info can be found here: https://github.com/preston-n/CustomEngine*
 ![Custom Engine Console](https://github.com/preston-n/FlipTrip/blob/main/Screenshots/FlipTrip_Console.png?raw=true)
 
