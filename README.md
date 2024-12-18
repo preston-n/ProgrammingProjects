@@ -9,7 +9,7 @@ Email: prestonnikfard@gmail.com
   * *More info can be found here: https://github.com/preston-n/Doodle-Scrubb* 
 ![Doodle & Scrubb Gameplay)](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
 
-# C++ Networking Projects
+### C++ Networking Projects
  * **Description:** Networking programs dealing with TCP/UDP, DNS, Multithreading, Client Requests, Sending and Receiving Data
  * *Made using C++ and CProcessing*
  * *More info can be found here: https://github.com/preston-n/C-Networking*
